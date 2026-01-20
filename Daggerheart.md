@@ -34,7 +34,7 @@ public:: true
 		  ---
 	- ### **Key NPCs**
 		- | **Name** | **Relation** | **Status/Location** | **Notes** |
-		  | ---- | ---- | ---- |
+		  | ---- | ---- | ---- | ------------ |
 		  | **Lena** | Best Friend | Khalshoppe (Bank) | His only real emotional connection. |
 		  | **Rae** | Handler | Khalshoppe (Artemins) | Provides tasks and information on his origin. secretary for school |
 		  | **Kuthier** | Former Master | Lesotho (Merchant) | The man who named him; a cynical but formative influence. |
