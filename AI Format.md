@@ -36,7 +36,7 @@
 		  | **Lena** | Best Friend | Khalshoppe (Bank) | His only real emotional connection. |
 		  | **Rae** | Handler | Khalshoppe (Artemins) | Provides tasks and information on his origin. secretary for school |
 		  | **Kuthier** | Former Master | Lesotho (Merchant) | The man who named him; a cynical but formative influence. |
-		  | **Kane** | Mentor/Captain | Ship / Numal | Taught him that "to be powerful is to be everywhere." |
+		  | **Kane** | Mentor/Captain | Ship | Taught him that "to be powerful is to be everywhere." |
 		  | **Helen** | Human Mother| Dead | Killed by Dorcha during childbirth. Lived in Nimba |
 		  | **Kano Faso** | Potentially Father | Dead in Garion| Potentially was an Artemins informant and not even Dorchas father. |
 		  | **Slavers** | Captured & sold Dorcha | various | plot convenience |
@@ -65,7 +65,6 @@
 		- Giaros - Island of exile and proving grounds
 			- small island, around 9 sq miles with 20-ish miles of coastline, mix of mountainous and jungle.
 			- Mostly consist of small animals, mice, vermin, fox to big cats such as black panther.
-		- Numal - training grounds for Dorcha
 		- Khalshoppe - This is a busling trading city and banking center. small port  but follows a river inland with the more poorer districts further inland.
 			- This city started as "Khal's Hope" based off of the fisherman "khal" having a dock and many claimed it was a Kha's Hope that he would catch anything instead of a "fools hope". Khal was not an intelligent person and didn't catch much of anything but he did become wealthy be creating his dock and having high fees to dock there. Over the years the name ran together to become khalshoppe as wealthy men brought their family. the family vacations while the men talked business.
 		- Illenaeum (ill-eh-nayum)- Basically a school
